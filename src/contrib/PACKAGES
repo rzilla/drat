@@ -1,8 +1,8 @@
-Package: drat
-Version: 0.0.2.4
-Suggests: git2r
-License: GPL (>= 2)
-MD5sum: 967de835548f961782158dcdd69332bd
+Package: memoise
+Version: 0.2.99
+Imports: digest
+License: MIT + file LICENSE
+MD5sum: 57a4638c1e481a22b6e65ca3f96d21f1
 NeedsCompilation: no
 
 Package: plyrmr
