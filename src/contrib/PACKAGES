@@ -1,9 +1,9 @@
 Package: dplyr.spark.hive
-Version: 0.4.0
-Imports: RJDBC, dplyr, DBI, purrr, lazyeval
+Version: 0.5.0
+Imports: RJDBC, dplyr, DBI, purrr, lazyeval, utils
 Suggests: Lahman, ggplot2, nycflights13, quickcheck
 License: Apache License (== 2.0)
-MD5sum: d4c5503bc38051d812adbbba4ffe94e1
+MD5sum: e3af8050557b1dc017d90dadf54a8bff
 NeedsCompilation: no
 
 Package: memoise
