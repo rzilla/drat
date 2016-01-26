@@ -14,32 +14,11 @@ License: Apache License (== 2.0)
 MD5sum: f4aa5e5e08e1399d64a49522847e447c
 NeedsCompilation: no
 
-Package: ravro
-Version: 1.0.4
-Depends: R (>= 3.0.0), bit64
-Imports: rjson, Rcpp
-Suggests: testthat
-MD5sum: d2154e53a99a012e3e19eec62d1d3dfc
-NeedsCompilation: yes
-
-Package: rhbase
-Version: 1.2.1
-Depends: R (>= 2.6.0), methods
-License: Apache License (== 2.0)
-MD5sum: df19f065324ae3cea20e437083658bc6
-NeedsCompilation: yes
-
-Package: rhdfs
-Version: 1.0.8
-Depends: R (>= 2.6.0), methods, rJava (>= 0.8)
-License: Apache License (== 2.0)
-MD5sum: bea6ce273102c31820f7f9425a2e4a3a
-NeedsCompilation: no
-
 Package: rmr2
 Version: 3.3.1
 Depends: R (>= 2.6.0), methods
-Imports: Rcpp, RJSONIO (>= 0.8-2), digest, functional, reshape2, stringr, plyr, caTools (>= 1.16)
+Imports: Rcpp, RJSONIO (>= 0.8-2), digest, functional, reshape2, stringr, plyr,
+         caTools (>= 1.16)
 Suggests: quickcheck (>= 3.0.0), ravro, rhdfs, testthat
 License: Apache License (== 2.0)
 MD5sum: 0bb96f59badb605489d2c4dccebf865b
