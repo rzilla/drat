@@ -36,3 +36,12 @@ License: Apache License (== 2.0)
 MD5sum: bea6ce273102c31820f7f9425a2e4a3a
 NeedsCompilation: no
 
+Package: rmr2
+Version: 3.3.1
+Depends: R (>= 2.6.0), methods
+Imports: Rcpp, RJSONIO (>= 0.8-2), digest, functional, reshape2, stringr, plyr, caTools (>= 1.16)
+Suggests: quickcheck (>= 3.0.0), ravro, rhdfs, testthat
+License: Apache License (== 2.0)
+MD5sum: 0bb96f59badb605489d2c4dccebf865b
+NeedsCompilation: yes
+
