@@ -6,13 +6,6 @@ License: Apache License (== 2.0)
 MD5sum: e3af8050557b1dc017d90dadf54a8bff
 NeedsCompilation: no
 
-Package: memoise
-Version: 0.2.99
-Imports: digest
-License: MIT + file LICENSE
-MD5sum: 57a4638c1e481a22b6e65ca3f96d21f1
-NeedsCompilation: no
-
 Package: quickcheck
 Version: 3.3.0
 Imports: digest, functional, testthat, pryr, microbenchmark, dplyr, bitops
@@ -28,12 +21,4 @@ Imports: rjson, Rcpp
 Suggests: testthat
 MD5sum: d2154e53a99a012e3e19eec62d1d3dfc
 NeedsCompilation: yes
-
-Package: yapo
-Version: 0.1
-Imports: methods
-Suggests: dplyr
-License: GPL (== 2.0)
-MD5sum: 67f7ffd8e9f11c36b504a4a48d75212d
-NeedsCompilation: no
 
