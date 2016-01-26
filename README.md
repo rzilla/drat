@@ -1,3 +1,9 @@
+## Rzilla package archive
+
+This is a fork of the drat package that holds the contents of the `archive.rzilla.org` package archive (in the gh-pages branch). The purpose of this archive is to facilitate the installation of open source big data packages for R and related.
+
+
+
 ## drat [![Build Status](https://travis-ci.org/eddelbuettel/drat.svg)](https://travis-ci.org/eddelbuettel/drat) [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html) [![CRAN](http://www.r-pkg.org/badges/version/drat)](http://cran.rstudio.com/package=drat) [![Downloads](http://cranlogs.r-pkg.org/badges/drat?color=brightgreen)](http://www.r-pkg.org/pkg/drat)
 
 Drat R Archive Template
