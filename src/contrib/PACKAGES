@@ -22,3 +22,10 @@ Suggests: testthat
 MD5sum: d2154e53a99a012e3e19eec62d1d3dfc
 NeedsCompilation: yes
 
+Package: rhdfs
+Version: 1.0.8
+Depends: R (>= 2.6.0), methods, rJava (>= 0.8)
+License: Apache License (== 2.0)
+MD5sum: bea6ce273102c31820f7f9425a2e4a3a
+NeedsCompilation: no
+
