@@ -23,3 +23,11 @@ License: Apache License (== 2.0)
 MD5sum: 0bb96f59badb605489d2c4dccebf865b
 NeedsCompilation: yes
 
+Package: tidyr.big
+Version: 0.1.0
+Imports: tidyr, dplyr, purrr, lazyeval, dplyr.spark.hive
+Suggests: quickcheck
+License: Apache License (== 2.0)
+MD5sum: 8721e49d2f516c787161069af0385df2
+NeedsCompilation: no
+
