@@ -1,9 +1,9 @@
 Package: dplyr.spark.hive
-Version: 0.5.0
-Imports: RJDBC, dplyr, DBI, purrr, lazyeval, utils
+Version: 0.6.0
+Imports: RJDBC, dplyr, DBI, purrr, lazyeval, utils, methods
 Suggests: Lahman, ggplot2, nycflights13, quickcheck
 License: Apache License (== 2.0)
-MD5sum: e3af8050557b1dc017d90dadf54a8bff
+MD5sum: 4000c58c869ae4202fc836f669dbbf75
 NeedsCompilation: no
 
 Package: quickcheck
@@ -17,8 +17,7 @@ NeedsCompilation: no
 Package: rmr2
 Version: 3.3.1
 Depends: R (>= 2.6.0), methods
-Imports: Rcpp, RJSONIO (>= 0.8-2), digest, functional, reshape2, stringr, plyr,
-         caTools (>= 1.16)
+Imports: Rcpp, RJSONIO (>= 0.8-2), digest, functional, reshape2, stringr, plyr, caTools (>= 1.16)
 Suggests: quickcheck (>= 3.0.0), ravro, rhdfs, testthat
 License: Apache License (== 2.0)
 MD5sum: 0bb96f59badb605489d2c4dccebf865b
